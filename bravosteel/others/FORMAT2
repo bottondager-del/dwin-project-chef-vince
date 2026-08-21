@@ -1,0 +1,56 @@
+        <!------------------------------------------->
+        <!-----------TEXT------->
+        <!------------------------------------------->
+        <div class="row mt-4 pt-4 border-top">
+            <div class="col-md-4 mb-3">
+            <h3><b>TEXT_TEXT_TEXT</b></h3><br>
+                    <table class="table">
+                        <thead>
+                            <tr>
+                            <th scope="col">Code</th>
+                            <th scope="col">Description</th>
+                            <th scope="col">Amount</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                            <td>TEXT_TEXT_TEXT</td>
+                            <td>TEXT_TEXT_TEXT</td>
+                            <td>₱TEXT_TEXT_TEXT</td>
+                            </tr>
+                            <tr>
+                            <td>TEXT_TEXT_TEXT</td>
+                            <td>TEXT_TEXT_TEXT</td>
+                            <td>₱TEXT_TEXT_TEXT</td>
+                            </tr>
+                            <tr>
+                            <td>TEXT_TEXT_TEXT</td>
+                            <td>TEXT_TEXT_TEXT</td>
+                            <td>₱TEXT_TEXT_TEXT</td>
+                            </tr>
+                            <tr>
+                            <td></td>
+                            <td>TEXT_TEXT_TEXT</td>
+                            <td>₱TEXT_TEXT_TEXT</td>
+                            </tr>
+                            <tr>
+                            <td></td>
+                            <td>TEXT_TEXT_TEXT</td>
+                            <td>₱TEXT_TEXT_TEXT</td>
+                            </tr>
+                            <tr>
+                            <td></td>
+                            <td>TEXT_TEXT_TEXT</td>
+                            <td>₱TEXT_TEXT_TEXT</td>
+                            </tr>
+                        </tbody>
+                        </table>
+            </div>
+            <div class="col-md-8">
+                <div class="row">
+                    <div class="col-md-4">
+                        <center><img src="../assets/img/bravosteel/baker_top/baker_top.png" class="img-fluid"></center>
+                    </div>
+                </div>
+            </div>
+        </div>

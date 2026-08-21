@@ -1,0 +1,111 @@
+        <!------------------------------------------->
+        <!-----------TEXT------->
+        <!------------------------------------------->
+        <div class="row mt-4 pt-4 border-top">
+            <div class="col-md-4 mb-3 text-center">
+            <h3><b>TEXT_TEXT_TEXT</b></h3>
+            <p>TEXT_TEXT_TEXT</p>
+            <center><img src="../assets/img/bravosteel/warewashing/warewashing.png" class="img-fluid"></center>
+            </div>
+            <div class="col-md-8">
+                <div class="accordion" id="accordion_shit">
+                <div class="card">
+                    <div class="card-header" id="BAKERY">
+                    <button class="btn float-right" data-toggle="collapse" data-target="#Bs1" aria-expanded="true" aria-controls="Bs1"><i class="accordion-toggle"></i></button>
+                    <h5 class="mb-0">Application</h5>
+                    </div>
+                    <div id="Bs1" class="collapse show" aria-labelledby="BAKERY" data-parent="#accordion_shit">
+                    <div class="card-body row">
+                        <div class="col-md-12">
+                        <p>TEXT_TEXT_TEXT</p>
+                        <p><i>TEXT_TEXT_TEXT</i></p>
+                            <ul>
+                            <li>TEXT_TEXT_TEXT</li>
+                            <li>TEXT_TEXT_TEXT</li>
+                            <li>TEXT_TEXT_TEXT</li>
+                            <li>TEXT_TEXT_TEXT</li>
+                            <li>TEXT_TEXT_TEXT</li>
+                            <li>TEXT_TEXT_TEXT</li>
+                            <li>TEXT_TEXT_TEXT</li>
+                            <li>TEXT_TEXT_TEXT</li>
+                            </ul>
+                        </div>
+                    </div>
+                    </div>
+                </div>
+                <div class="card">
+                    <div class="card-header" id="BAKERY">
+                    <button class="btn float-right collapsed"  data-toggle="collapse" data-target="#Bs2" aria-expanded="false" aria-controls="Bs2"><i class="accordion-toggle"></i></button>
+                    <h5 class="mb-0">Specifications</h5>
+                    </div>
+                    <div id="Bs2" class="collapse" aria-labelledby="BAKERY" data-parent="#accordion_shit">
+                    <div class="card-body row">
+                        <div class="table-responsive" style="padding: 0px;">
+                            <p><b>TEXT_TEXT_TEXT</b></p>
+                            <ul>
+                                <li>TEXT_TEXT_TEXT</li>
+                            </ul>
+                            <table class="table">
+                            <thead>
+                                <tr>
+                                <th scope="col">Model</th>
+                                <th scope="col">Capacity</th>
+                                <th scope="col">Size(WxDxH)</th>
+                                <th scope="col">E.Power</th>
+                                <th scope="col">G.Power</th>
+                                <th scope="col">Price</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                <td>TEXT_TEXT_TEXT</td>
+                                <td>TEXT_TEXT_TEXT</td>
+                                <td>TEXT_TEXT_TEXT</td>
+                                <td>TEXT_TEXT_TEXT</td>
+                                <td>TEXT_TEXT_TEXT</td>
+                                <td><b>₱TEXT_TEXT_TEXT.00</b></td>
+                                </tr>
+                                <tr>
+                                <td>TEXT_TEXT_TEXT</td>
+                                <td>TEXT_TEXT_TEXT</td>
+                                <td>TEXT_TEXT_TEXT</td>
+                                <td>TEXT_TEXT_TEXT</td>
+                                <td>TEXT_TEXT_TEXT</td>
+                                <td><b>₱TEXT_TEXT_TEXT.00</b></td>
+                                </tr>
+                            </tbody>
+                            </table>
+                            <p>
+                            <b>TEXT_TEXT_TEXT</b><br>
+                            <b>TEXT_TEXT_TEXT</b><br>
+                            <b>TEXT_TEXT_TEXT</b><br>
+                            <b>TEXT_TEXT_TEXT</b>
+                            </p>
+                        </div>
+                    </div>
+                    </div>
+                </div>
+    
+                <div class="card">
+                    <div class="card-header" id="BAKERY">
+                    <h5 class="mb-0">
+                        Terms and Conditions
+                        <button class="btn float-right collapsed" data-toggle="collapse" data-target="#Bs4" aria-expanded="false" aria-controls="Bs4">
+                        <i class="accordion-toggle"></i>
+                        </button>
+                    </h5>
+                    </div>
+                    <div id="Bs4" class="collapse" aria-labelledby="BAKERY" data-parent="#accordion_shit">
+                    <div class="card-body">
+                        <ul class="warranty">
+                        <li>Accessories, rubber parts and other parts broken due to normal wear and tear (such as blades) or user misuse are not covered by the warranty policy. </li>
+                        <li>Free service applies to work done during office hours (8 to 5pm). Service calls during Sunday, holidays and after office hours will incur overtime charge.</li>
+                        <li>For provincial service requests: transportation, meals &accommodations to be shouldered by the customer.</li>
+                        <li>Crating of goods available upon request. Charges to be shouldered by customer.</li>
+                        </ul>
+                    </div>
+                    </div>
+                </div>
+                </div>
+            </div>
+        </div>
